@@ -20,3 +20,5 @@
 ![](./assets/images/screenshot1.png)
 ![](./assets/images/screenshot2.png)
 
+## Github pages Link
+https://minthare.github.io/workday-scheduler/
